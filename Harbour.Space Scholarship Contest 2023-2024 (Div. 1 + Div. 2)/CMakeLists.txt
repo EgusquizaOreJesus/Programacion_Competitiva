@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.25)
+project(Harbour_Space_Scholarship_Contest_2023_2024__Div__1___Div__2_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Harbour_Space_Scholarship_Contest_2023_2024__Div__1___Div__2_ main.cpp)
+add_executable(p1 problem_A.cpp)
